@@ -1,0 +1,191 @@
+38
+Energen
+11
+10
+Beverage
+20
+Sprite
+13
+11
+Beverage
+10
+Coca-Cola
+18
+15
+Beverages
+10
+Nestle Pure Life Water
+12
+10
+Beverages
+8
+Tropicana Juice
+20
+18
+Beverages
+13
+Nescafe Coffee
+10
+8
+Beverages
+7
+Lipton Iced Tea
+7
+5
+Beverages
+5
+Palma Cooking Oil
+70
+65
+Groceries
+5
+CSTA Sugar
+40
+35
+Groceries
+6
+Asahi Iodized Salt
+15
+10
+Groceries
+5
+Goldilocks Flour
+60
+55
+Groceries
+8
+Century Tuna
+30
+28
+Groceries
+8
+Lucky Me Pancit Canton
+12
+10
+Groceries
+10
+Maggi Soy Sauce
+25
+22
+Groceries
+9
+Surf Laundry Detergent
+80
+75
+House Supplies
+10
+Joy Dishwashing Liquid
+40
+35
+House Supplies
+20
+Clorox Bleach
+30
+25
+House Supplies
+20
+White Castle Candle
+10
+8
+House Supplies
+6
+Safety Matches
+7
+5
+House Supplies
+10
+Garbage Bags
+25
+22
+House Supplies
+30
+Bioderm
+20
+18
+Personal Care
+10
+Safeguard
+20
+19
+Personal Care
+10
+Safeguard Soap
+20
+18
+Personal Care
+5
+Sunsilk Shampoo
+15
+12
+Personal Care
+9
+Cream Silk Conditioner
+12
+10
+Personal Care
+5
+Colgate Toothpaste
+25
+22
+Personal Care
+8
+Colgate Toothbrush    
+15
+12
+Personal Care
+5
+Rexona Deodorant
+40
+35
+Personal Care
+10
+Colgate
+11
+10
+Personal Care
+10
+Hi-ho
+25
+20
+Snacks
+10
+Moby
+9
+7
+Snacks
+10
+Piattos
+17
+15
+Snacks
+10
+Snacku
+9
+7
+Snacks
+16
+Jack 'n Jill Curls
+25
+22
+Snacks
+10
+Hershey's Chocolate Bar
+20
+18
+Snacks
+5
+Sky Flakes Crackers
+15
+12
+Snacks
+8
+Oreo Cookies 
+35
+30
+Snacks
+10
+Patata
+10
+9
+Snacks
+10
